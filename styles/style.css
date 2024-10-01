@@ -300,5 +300,6 @@
     list-style: none;
     gap: 48px;
     margin-right: 50px;
+    /* for tests */
 }
 
