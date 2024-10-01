@@ -278,7 +278,6 @@
 .footer__menu-list {
     list-style: none;
     display: flex;
-    list-style: none;
     flex-direction: column;
     align-items: center;
 }
