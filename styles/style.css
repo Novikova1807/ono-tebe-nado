@@ -187,8 +187,13 @@
     display: flex;
     flex-wrap: wrap;
     list-style: none;
-    justify-content: space-evenly;
-    margin-bottom: 30px;
+    padding-left: 25px;
+    margin-bottom: 3px;
+}
+
+.lots__card-list-item {
+    margin-bottom: 25px;
+    margin-right: 24px;
 }
 
 .card__title {
